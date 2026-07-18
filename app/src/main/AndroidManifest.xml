@@ -19,7 +19,7 @@
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
 	xmlns:tools="http://schemas.android.com/tools"
-package="ir.kalabarnet.customer"
+package="ir.kalabarnet.customer">
 
 	<supports-screens
 		android:anyDensity="true"
